@@ -56,3 +56,5 @@ strong {
   background-image: url("img/pattern.jpg");
   background-repeat: repeat-x;
 }
+
+.spacing {margin-bottom: 10px; margin-top: 10px;}
