@@ -1,0 +1,58 @@
+.img-circle {
+    border-radius: 50%;
+    width:100px
+    height:100px;
+}
+
+html {
+  background-color: whitesmoke;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: lightsteelblue
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: black;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("img/pattern.jpg");
+  background-repeat: repeat-x;
+}
